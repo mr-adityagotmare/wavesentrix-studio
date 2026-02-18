@@ -1,0 +1,9 @@
+ID,Task,Category,Priority,Status,Start Date,Due Date,Notes
+1,Setup project structure,Setup,High,Done,2026-02-18,2026-02-18,Initial repo setup
+2,Setup Python environment,Setup,High,Done,2026-02-18,2026-02-18,PySide6 installed
+3,Create main window GUI,GUI,High,Done,2026-02-18,2026-02-18,Verified launch
+4,Implement signal generator,DSP,High,Todo,,,
+5,Build FFT spectrum view,DSP,High,Todo,,,
+6,Create waterfall display,Visualization,High,Todo,,,
+7,Add radar echo simulation,Radar,High,Todo,,,
+8,Single target detection,Radar,Medium,Todo,,,
